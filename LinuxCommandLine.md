@@ -64,8 +64,7 @@
   ```
 ## 3. การ copy และการย้าย file/folder
 ที่อยู่ของ File/Folder ในตอนสุดท้าย
-![image](https://github.com/nattntn/AIPrototype2023/blob/main/lecture/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C.jpg)
-* หลักการ
+* หลักการ 
   ```
   $cp {ที่อยู่ต้นทางของ file/folder ที่ต้องการคัดลอก} {ที่อยู่ปลายทางที่ต้องการที่จะคัดลอก file/folder ไป}
   $mv {ที่อยู่ต้นทางของ file/folder ที่ต้องการย้าย} {ที่อยู่ปลายทางที่ต้องการที่จะย้าย file/folder ไป}
