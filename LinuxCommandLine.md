@@ -97,7 +97,7 @@
 # ยกเลิกคำสั่ง
 > ctrl+c
 
-#free cloud
+# free cloud
 https://drive.google.com/drive/folders/1ucrIMVO-4pzv2_OoIB4JxZxY-oSVZrVv?fbclid=IwY2xjawG7S-FleHRuA2FlbQIxMAABHb70STmmi5MQmoxv87D_4B-v3fGVPEuR_ZmWPtucXo8F_dtsEC8XUJejRw_aem_j62kF42Jy07EB733qnGzbA
 # Homework
 copy filex in testfolder1_1 to testfolder1_1_2 and change file name to filey
