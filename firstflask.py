@@ -1,8 +1,20 @@
 from flask import Flask, render_template, request, render_template_string
 import random
+import json
+
 
 
 app = Flask(__name__)
+@app.route('/simpleAPI',methods=['POST'])
+def web_service_API():
+
+    payload = request.data.decode("utf-8")
+    inmessage = json.loads(payload)
+
+    print(inmessage)
+    
+    json_data = json.dumps({'y': 'received!'})
+    return json_data
 
 @app.route("/") 
 def helloworld():
@@ -268,8 +280,9 @@ def contact_page():
         </body>
         </html>
         """
-        
+  ##api
+
         
 
 if __name__ == "__main__":   # run code 
-    app.run()
+    app.run() #host="10.53.60.84", port=5001
