@@ -423,11 +423,9 @@ x = requests.post(url, data = json.dumps(myobj))
 <details> 
   <summary> HW1 Calculate how many days you have lived since birth. </summary> 
 👉 สามารถหาได้ด้วยว่าอีกกี่วันจะถึงวันเกิดของคุณ!
-
-[myfirstpy.py](https://github.com/kwansawanth/AIPrototype24/blob/main/myfirstpy.py))
-
+['myfirstpy.py'](https://github.com/kwansawanth/AIPrototype24/blob/main/myfirstpy.py)
 <details> 
-  <summary> HW2 Send messages to friends using the server. </summary> 
+<summary> HW2 Send messages to friends using the server. </summary> 
 👉 สามารถเลือกส่งหาเพื่อนที่เคยบันทึก IP Address ไว้ได้ หรือเพิ่มเพื่อน และส่งข้อความหาคนที่ไม่มีในรายชื่อ
   
 [`firstflask.py`](https://github.com/kwansawanth/AIPrototype24/blob/main/firstflask.py)
