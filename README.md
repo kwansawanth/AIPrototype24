@@ -8,7 +8,7 @@ AI Prototpe 2024 Kwansawan thongprasant
 
 | CLASS | DATE     | DESCRIPTION          | LECTURE |
 |-------|----------|----------------------|---------|
-| I     | 02/12/67 | Ubuntu Command Line | [Lecture Class I.md]([Lecture Class I.md](https://github.com/kwansawanth/AIPrototype24/blob/main/Lecture%20Class%20I.md)) |
+| I     | 02/12/67 | Ubuntu Command Line | [Lecture Class I.md]((https://github.com/kwansawanth/AIPrototype24/blob/main/Lecture%20Class%20I.md)) |
 | II    | 11/12/67 | Virtual Machines    | [Lecture Class II.md]([Lecture Class II.md](https://github.com/kwansawanth/AIPrototype24/blob/main/Lecture%20Class%20II.md) |
 | III   | 24/12/67 | CloudVM             | [Lecture Class III.md](Lecture Class III.md) |
 | IV    | 07/01/68 | Web page            | [Lecture Class IV.md](Lecture Class IV.md) |
