@@ -1,7 +1,7 @@
 # AIPrototype24
 AI Prototpe 2024 Kwansawan thongprasant
 643020498-9 ขวัญสวรรค์ ทองประเสริฐ 
-[my web page](https://kwansawanth.github.io/OPG-SPELL-page/) 
+## click here to see [my web page](https://kwansawanth.github.io/OPG-SPELL-page/) 
 ## 📅 **Calender**
 
 | CLASS | DATE     | DESCRIPTION          | LECTURE |
