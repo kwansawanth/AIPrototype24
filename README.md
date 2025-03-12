@@ -182,7 +182,7 @@ screen -R #กระโดดกลับเข้่าไปที่ screen
   
   - Save code on github
   ```
-  git clone https://github.com/Ratchanontt/AIPrototype24.git
+  git clone https://github.com/kwansawanth/AIPrototype24.git
   git add testcloudvm.py
   git commit -m "test cloud server"
   git push
@@ -193,8 +193,8 @@ screen -R #กระโดดกลับเข้่าไปที่ screen
   ```
   - Setting owner Github (ทำครั้งเดียว)
   ```
-  git config --global user.name "Ratchanontt"
-  git config --global user.email "ratchanont.t@kkumail.com"
+  git config --global user.name "kwansawan"
+  git config --global user.email "kwansawan.t@kkumail.com"
   ```
 
 </details>
